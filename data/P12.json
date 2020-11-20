@@ -1,0 +1,24 @@
+{
+    "firstName": "Mikhail",
+    "lastName": "Ivanov",
+    "age": 24,
+    "isMan": true,
+    "phoneNumbers": [
+      "89037463748",
+      "88493846738"
+    ],
+    "adress": {
+      "city": "Moscow",
+      "street": "Pushkina"
+    },
+    "phonesNumbers": [
+      {
+        "type": "mobile",
+        "number": "88493846738"
+      },
+      {
+        "type": "home",
+        "number": "8495846738"
+      }
+    ]
+}
